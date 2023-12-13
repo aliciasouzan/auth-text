@@ -136,7 +136,7 @@ public class AVLTree {
       e.printStackTrace();
     }
 
-    // Concatenate hashes and node value
+    // Concatenar hashes e node value
     String concatenatedHash = "";
     if (leftHash.length() != 0) {
       concatenatedHash += leftHash;
